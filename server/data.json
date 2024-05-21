@@ -1,0 +1,223 @@
+{
+    "users": [
+        {
+            "id": "de63e0eb-1e50-42e3-91f7-592daa27e6ed",
+            "name": "Tobi",
+            "age": "10",
+            "email": "user1@tbook.com",
+            "password": "123",
+            "phone": "12345",
+            "address": "Morgan State University",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8"
+            ],
+            "posts": [],
+            "savedPosts": []
+        },
+        {
+            "id": "5e6511cc-f3a6-462d-a960-0f55c1bf493c",
+            "name": "Quan",
+            "age": "11",
+            "email": "user2@tbook.com",
+            "password": "123",
+            "phone": "12345",
+            "address": "Morgan State University",
+            "feed": [
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [
+                {
+                    "id": "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "2990f1ab-553b-4c6d-940c-336740f48674",
+            "name": "Bob",
+            "age": "12",
+            "email": "user3@tbook.com",
+            "password": "123",
+            "phone": "123456",
+            "address": "Morgan State University",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [
+                {
+                    "id": "de4b8bc2-9545-4d50-8280-ccb056b71ec0"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "89d9d558-7d4b-4d5f-af8b-baa5f7766544",
+            "name": "Lenny",
+            "age": "13",
+            "email": "user4@tbook.com",
+            "password": "123",
+            "phone": "12345",
+            "address": "Morgan State University",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [
+                {
+                    "id": "7f2e394e-4619-4b26-80a4-68105c03214f"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "4bbd9f52-4745-4726-a927-7b6fb07c5bb9",
+            "name": "Daniel",
+            "age": "14",
+            "email": "user5@tbook.com",
+            "password": "123",
+            "phone": "12345",
+            "address": "Morgan State University",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [
+                {
+                    "id": "63a4831e-7e55-4729-ad17-9aec5329877d"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "b73629da-7b88-4997-abec-b54267d71daf",
+            "name": "Tobi",
+            "age": "10",
+            "email": "user1@test.com",
+            "password": "123",
+            "phone": "123",
+            "address": "School",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8"
+            ],
+            "posts": [
+                {
+                    "id": "be2d6a66-423d-4650-92b3-7c93aca89513"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "e62088bc-05de-468d-9cb0-8a57be36c413",
+            "name": "Danny",
+            "age": "11",
+            "email": "user2@test.com",
+            "password": "123",
+            "phone": "123",
+            "address": "school",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [
+                {
+                    "id": "5e9dd59d-9375-4137-a7c3-6cd5cce861b8"
+                }
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": "e021f104-385c-4120-a861-a149944f437c",
+            "name": "Oba",
+            "age": "13",
+            "email": "user10@test.com",
+            "password": "123",
+            "phone": "123",
+            "address": "school",
+            "feed": [
+                "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+                "63a4831e-7e55-4729-ad17-9aec5329877d",
+                "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+                "7f2e394e-4619-4b26-80a4-68105c03214f",
+                "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+                "be2d6a66-423d-4650-92b3-7c93aca89513"
+            ],
+            "posts": [],
+            "savedPosts": []
+        }
+    ],
+    "articles": [
+        {
+            "id": "2a00ea57-4c67-46b6-bf61-118bf5f4c2c3",
+            "title": "Article 1",
+            "content": "This is the first article",
+            "author": "Quan",
+            "likes": 0,
+            "date": "25-03-2024"
+        },
+        {
+            "id": "63a4831e-7e55-4729-ad17-9aec5329877d",
+            "title": "Article 2",
+            "content": "This is the second article",
+            "author": "Daniel",
+            "likes": 0,
+            "date": "25-03-2024"
+        },
+        {
+            "id": "de4b8bc2-9545-4d50-8280-ccb056b71ec0",
+            "title": "Article 4",
+            "content": "This is the fourth Article",
+            "author": "Bob",
+            "likes": 0,
+            "date": "25-03-2024"
+        },
+        {
+            "id": "7f2e394e-4619-4b26-80a4-68105c03214f",
+            "title": "Article 5",
+            "content": "This is fifth article",
+            "author": "Lenny",
+            "likes": 0,
+            "date": "25-03-2024"
+        },
+        {
+            "id": "5e9dd59d-9375-4137-a7c3-6cd5cce861b8",
+            "title": "Article 100",
+            "content": "this is another article",
+            "author": "Danny",
+            "likes": 0,
+            "date": "27-03-2024"
+        },
+        {
+            "id": "be2d6a66-423d-4650-92b3-7c93aca89513",
+            "title": "Article 799",
+            "content": "another article",
+            "author": "Tobi",
+            "likes": 0,
+            "date": "27-03-2024"
+        }
+    ]
+}
